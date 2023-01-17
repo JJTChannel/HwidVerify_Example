@@ -10,7 +10,7 @@ Fork to replit.com
 
 go to index.php Add hwid
 
-Replace "<Check Link>" in main.lua to the link from replit.com
+Replace "[Check Link]" in main.lua to the link from replit.com
 
 the link Will Be in the replit.com you can get it here!
 ![image](https://user-images.githubusercontent.com/95204359/212911991-061a593a-c4c5-401c-b522-712ec0f24fc9.png)
